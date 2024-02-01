@@ -1,0 +1,6 @@
+To run the script, you need to ensure you are on a platform that will support Python.
+Ensure that your computer has Python 3.11 or newer installed.
+The data.json file should be in the same directory as main.py.
+An IDE that supports Python development must be used (Visual Studio Code used for development).
+Once the file is opened, running the python file will generate the CSV file.
+If you are in the same directory as the python file and the data file, the CSV file can be generated using the console command "python main.py"
